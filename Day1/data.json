@@ -8,6 +8,7 @@
 
     "name": "Sriakkkaprem",
     "email": "sriakka@Reddy.in",
+    "comment":"Heyaa"
   },
   {
     "name": "sid ji",
@@ -52,13 +53,10 @@
     "email":"abcd@example.com",
     "comment":"Hey there!This is Harini"
 
-  }
-    {
+  },
+  {
   "name": "Tejaswi",
   "email": "your-email@example.com",
   "comment": "Your comment here."
-},
-  
-
-  
+} 
 ]
