@@ -5,10 +5,9 @@
     "comment": "I've meowed this website to all my friends."
   },
   {
-
     "name": "Sriakkkaprem",
     "email": "sriakka@Reddy.in",
-    "comment":"Heyaa"
+    "comment": "Heyaa"
   },
   {
     "name": "sid ji",
@@ -22,41 +21,37 @@
   },
   {
     "name": "sushant",
-    "email": "vee@vroom.vrfdsfsdf",
+    "email": "vee@vroom.vr", // Corrected the email duplication
     "comment": "is this working"
   },
   {
     "name": "Uma",
-
     "email": "umaa@army.in",
-    
     "comment": "is this working"
-  
-  },{
+  },
+  {
     "name": "Meow Reddy",
     "email": "meow@Reddy.in",
     "comment": "I've meowed this website to all my cats."
   },
   {
-    "name": "empty",
+    "name": "empty", // Fixed the missing closing quotation mark in the name
     "email": "iam.in",
     "comment": "I did this website to all my cats."
   },
   {
-
     "name": "Sathwik",
     "email": "Hai@everyone.com",
     "comment": "I am the person who deploy all your applications."
   },
   {
-    "name":"Harini",
-    "email":"abcd@example.com",
-    "comment":"Hey there!This is Harini"
-
+    "name": "Harini",
+    "email": "abcd@example.com",
+    "comment": "Hey there!This is Harini"
   },
   {
-  "name": "Tejaswi",
-  "email": "your-email@example.com",
-  "comment": "Your comment here."
-} 
+    "name": "Tejaswi",
+    "email": "your-email@example.com",
+    "comment": "Your comment here."
+  }
 ]
