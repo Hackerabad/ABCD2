@@ -5,13 +5,42 @@
     "comment": "I've meowed this website to all my friends."
   },
   {
+    "name": "sid ji",
+    "email": "sid@ji.in",
+    "comment": "Git is Gitting very complex"
+  },
+  {
+    "name": "Veee",
+    "email": "vee@vroom.vr",
+    "comment": "Vroom Vroooooooooom"
+  },
+  {
+    "name": "sushant",
+    "email": "vee@vroom.vrfdsfsdf",
+    "comment": "is this working"
+  },
+  {
+    "name": "Uma",
+
+    "email": "umaa@army.in",
+    
+    "comment": "is this working"
+  
+  },{
     "name": "Meow Reddy",
     "email": "meow@Reddy.in",
     "comment": "I've meowed this website to all my cats."
   },
   {
+
     "name": "Sathwik",
     "email": "Hai@everyone.com",
     "comment": "I am the person who deploy all your applications."
+  },
+  {
+    "name":"Harini",
+    "email":"abcd@example.com",
+    "comment":"Hey there!This is Harini"
+
   }
 ]
